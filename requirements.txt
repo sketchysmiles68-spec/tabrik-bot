@@ -1,4 +1,4 @@
-aiogram>=3.15.0
-apscheduler
-python-dotenv
-pillow
+aiogram==3.13.1
+apscheduler==3.10.4
+python-dotenv==1.0.1
+pillow==10.4.0
